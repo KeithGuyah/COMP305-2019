@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Keith Guyah\\Desktop\\Courses 2019\\Gaming\\Github\\COMP305-2019\\COMP305-2019\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
